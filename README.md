@@ -15,11 +15,8 @@ Hey there. I'm Hassam Abdullah, a Software Engineer focused on web development.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pawnsapprentice&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pawnsapprentice&icon=0&color=0)](https://visitcount.itsvg.in)
