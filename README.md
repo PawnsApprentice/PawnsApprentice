@@ -12,9 +12,6 @@ Hey there. I'm Hassam Abdullah, a Software Engineer focused on web development.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pawnsapprentice&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawnsapprentice&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pawnsapprentice&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
