@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there. I'm Hassam Abdullah, a Software Engineer focused on web development.
+Hey there. a Software Engineer focused on web development.
 
 
 ## 🌐 Socials:
