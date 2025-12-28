@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there. a Software Engineer focused on web development.
+A Software Engineer focused on backend, machine learning, and cloud systems
 
 
 ## 🌐 Socials:
